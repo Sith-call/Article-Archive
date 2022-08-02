@@ -8,3 +8,4 @@
 * [Inside look at modern web browser (part 2) (Google Developers)](https://developer.chrome.com/blog/inside-browser-part2/)
 * [Inside look at modern web browser (part 3) (Google Developers)](https://developer.chrome.com/blog/inside-browser-part3/)
 * [Inside look at modern web browser (part 4) (Google Developers)](https://developer.chrome.com/blog/inside-browser-part4/)
+* [Virtual DOM(버추얼 돔,가상 돔)을 직접 만들어보자](https://medium.com/@enro2414-40667/virtual-dom-%EB%B2%84%EC%B6%94%EC%96%BC-%EB%8F%94-%EA%B0%80%EC%83%81-%EB%8F%94-%EC%9D%84-%EC%A7%81%EC%A0%91-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9E%90-1c44606ea9b1)
