@@ -1,5 +1,8 @@
 # Article-Archive
 
+## Rule
+* 읽은 것만 올립니다.
+
 ## WEB
 
 ### Same Origin Policy
