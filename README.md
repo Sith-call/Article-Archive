@@ -8,6 +8,9 @@
 ### Same Origin Policy
 * [What is the Same-Origin Policy?](https://medium.com/shiftleft-blog/what-is-the-same-origin-policy-f5e365adad7e)
 
+## Cross Origin Resource Sharing
+* [Cross-Origin Resource Sharing (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+
 ## Back-End
 
 ## DevOps
