@@ -16,6 +16,7 @@
 
 ### Site Isolation
 * [Site Isolation for web developers](https://developer.chrome.com/blog/site-isolation/)
+  * [Sandbox](https://en.wikipedia.org/wiki/Sandbox_(computer_security))
 
 ### Multi-process Architecture of Chromium
 * [Multi-process Architecture](https://www.chromium.org/developers/design-documents/multi-process-architecture/)
