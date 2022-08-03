@@ -1,5 +1,10 @@
 # Article-Archive
 
+## WEB
+
+### Same Origin Policy
+* [What is the Same-Origin Policy?](https://medium.com/shiftleft-blog/what-is-the-same-origin-policy-f5e365adad7e)
+
 ## Back-End
 
 ## DevOps
