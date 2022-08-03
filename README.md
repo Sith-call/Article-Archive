@@ -5,6 +5,10 @@
 
 ## WEB
 
+### Browser
+* [How browser work](https://web.dev/howbrowserswork/)
+* [브라우저 렌더링 동작 이해하기](https://medium.com/@jihyerish/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EB%A0%8C%EB%8D%94%EB%A7%81-%EB%8F%99%EC%9E%91-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-4245c2f0a606)
+
 ### Same Origin Policy
 * [What is the Same-Origin Policy?](https://medium.com/shiftleft-blog/what-is-the-same-origin-policy-f5e365adad7e)
 
@@ -20,10 +24,6 @@
 * [서비스 개발자를 위한 컨테이너 뽀개기 (a.k.a 컨테이너인터널)](https://tech.kakaoenterprise.com/150)
 
 ## Front-End
-
-### Browser
-* [How browser work](https://web.dev/howbrowserswork/)
-* [브라우저 렌더링 동작 이해하기](https://medium.com/@jihyerish/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EB%A0%8C%EB%8D%94%EB%A7%81-%EB%8F%99%EC%9E%91-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-4245c2f0a606)
 
 ### Virtual DOM
 * [How Virtual-DOM and diffing works in React](https://medium.com/@gethylgeorge/how-virtual-dom-and-diffing-works-in-react-6fc805f9f84e)
