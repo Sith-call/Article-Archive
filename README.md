@@ -27,6 +27,9 @@
 * [Inside look at modern web browser (part 3)](https://developer.chrome.com/blog/inside-browser-part3/)
 * [Inside look at modern web browser (part 4)](https://developer.chrome.com/blog/inside-browser-part4/)
 
+### Cross Origin Read Blocking
+* [Cross-Origin Read Blocking for Web Developers](https://www.chromium.org/Home/chromium-security/corb-for-developers/)
+
 ### V8 Engine
 * [How V8 JavaScript engine works step by step [with diagram]](https://cabulous.medium.com/how-v8-javascript-engine-works-5393832d80a7)
 
