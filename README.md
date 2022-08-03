@@ -11,6 +11,9 @@
 ### Cross Origin Resource Sharing
 * [Cross-Origin Resource Sharing (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 
+### Multi-process Architecture of Chromium
+* [Multi-process Architecture](https://www.chromium.org/developers/design-documents/multi-process-architecture/)
+
 ## Back-End
 
 ## DevOps
