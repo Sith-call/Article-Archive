@@ -21,7 +21,8 @@
 
 ## Front-End
 
-### Browser Rendering
+### Browser
+* [How browser work](https://web.dev/howbrowserswork/)
 * [브라우저 렌더링 동작 이해하기](https://medium.com/@jihyerish/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EB%A0%8C%EB%8D%94%EB%A7%81-%EB%8F%99%EC%9E%91-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-4245c2f0a606)
 
 ### Virtual DOM
