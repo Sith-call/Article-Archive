@@ -1,8 +1,4 @@
 # Article-Archive
-
-## Rule
-* 읽은 것만 올립니다.
-
 ## Back-End
 
 ## DevOps
