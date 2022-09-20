@@ -5,6 +5,7 @@
 
 * [Node.js Coding Style Guidelines](https://medium.com/swlh/node-js-coding-style-guidelines-74a20d00c40b)
 * [require(), exports, module.exports 공식문서로 이해하기](https://medium.com/@chullino/require-exports-module-exports-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-1d024ec5aca3)
+* [모듈에 대한 이해와 사용법](https://baeharam.netlify.app/posts/javascript/module)
 
 #### Express
 * [Project Structure](https://medium.com/codechef-vit/a-better-project-structure-with-express-and-node-js-c23abc2d736f)
