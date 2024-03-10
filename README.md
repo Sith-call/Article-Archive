@@ -61,3 +61,10 @@
 * [Github Action이란?](https://brownbears.tistory.com/597)
 * [GitHub Actions의 체크아웃(Checkout) 액션으로 코드 내려받기](https://www.daleseo.com/github-actions-checkout/)
 * [GitHub Actions 첫 워크플로우 생성해보기](https://www.daleseo.com/github-actions-first-workflow/)
+
+## Data
+
+### Big Query
+* [Anatomy of Big Query](https://cloud.google.com/blog/products/bigquery/anatomy-of-a-bigquery-query?hl=en)
+* [Big Query under the hood](https://cloud.google.com/blog/products/bigquery/bigquery-under-the-hood?hl=en)
+* [Inside Capacitor, BigQuery’s next-generation columnar storage format](https://cloud.google.com/blog/products/bigquery/inside-capacitor-bigquerys-next-generation-columnar-storage-format?hl=en)
